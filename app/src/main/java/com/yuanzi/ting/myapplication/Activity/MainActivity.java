@@ -1,7 +1,9 @@
-package com.yuanzi.ting.myapplication;
+package com.yuanzi.ting.myapplication.Activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.yuanzi.ting.myapplication.R;
 
 public class MainActivity extends AppCompatActivity {
 
