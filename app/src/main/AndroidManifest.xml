@@ -15,6 +15,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".Activity.SimpleActivity" />
+        <activity android:name=".Activity.MoreActivity" />
+        <activity android:name=".Activity.NetworkActivity" />
+        <activity android:name=".Activity.BindingActivity" />
+        <activity android:name=".Activity.LambdaActivity" />
+        <activity android:name=".Activity.SafeActivity" />
+        <activity android:name=".Activity.NetworkDetailActivity" />
+        <activity android:name=".Activity.TestDataBindingActivity"></activity>
     </application>
 
 </manifest>
